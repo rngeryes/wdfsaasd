@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a3ba4e3f-4736-4143-a284-45c5c624cd7e",
+    "icon": "/task.png",
+    "title": "test",
+    "reward": "1222",
+    "rewardAmount": 12222,
+    "link": "adsdasd.com",
+    "completed": false,
+    "type": "in-game"
+  },
+  {
+    "id": "0bf02440-7888-44ba-b020-9dd326cd9e82",
+    "icon": "/task.png",
+    "title": "test",
+    "reward": "2222",
+    "rewardAmount": 22222221,
+    "link": "https://lolcrip.tlc",
+    "completed": false,
+    "type": "in-game"
+  },
+  {
+    "id": "aa3a35c9-28df-4d15-a40e-ad72e79db97e",
+    "icon": "/task.png",
+    "title": "dgdfgdf",
+    "reward": "dfgdfgd",
+    "rewardAmount": 323323,
+    "link": "dfgdfgdfg",
+    "completed": false,
+    "type": "partners"
+  }
+]
